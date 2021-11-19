@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simarjeet Singh
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Python based on project
+- 💞️ I’m looking to collaborate on Python based project
 
 
 <!---
